@@ -65,8 +65,6 @@ If you wish to contribute to the Typing Test - WPM Calculator project, you can f
 
 3. Submit a pull request detailing the changes you made and their purpose.
 
-4. Your contribution will be reviewed by the project maintainers, and if deemed appropriate, it will be merged into the main repository.
-
 ## 4. License
 
 The Typing Test - WPM Calculator project is released
