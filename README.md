@@ -47,7 +47,7 @@ To use the Typing Test - WPM Calculator, follow these steps:
 
 3. Run the following command to start the typing test:
    ```
-   python typing_test.py
+   python3 wpm.py
    ```
 
 4. The program will display a random sentence or phrase. Type the given text as accurately and quickly as possible.
