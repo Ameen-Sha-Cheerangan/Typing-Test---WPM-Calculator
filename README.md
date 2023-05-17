@@ -56,17 +56,7 @@ To use the Typing Test - WPM Calculator, follow these steps:
 
 6. You can choose to take the typing test again by pressing Enter, or you can exit the program by typing 'q' and pressing Enter.
 
-## 3. Customization
-
-The Typing Test - WPM Calculator project provides some customization options that you can modify according to your preferences. The customization options are located in the `config.py` file. Here are the available options:
-
-- `DURATION`: Sets the duration of the typing test in seconds. By default, it is set to 60 seconds.
-- `WORD_COUNT`: Sets the number of words displayed in each typing test. The default value is 50.
-- `DATA_FILE`: Specifies the file from which the random words are selected. By default, it uses the `data/words.txt` file, which contains a list of common English words.
-
-You can modify these options to change the behavior of the program. For example, you can increase or decrease the duration of the typing test, customize the number of words shown, or provide your own file with words.
-
-## 4. Contributing
+## 3. Contributing
 
 If you wish to contribute to the Typing Test - WPM Calculator project, you can follow these steps:
 
@@ -78,7 +68,7 @@ If you wish to contribute to the Typing Test - WPM Calculator project, you can f
 
 4. Your contribution will be reviewed by the project maintainers, and if deemed appropriate, it will be merged into the main repository.
 
-## 5. License
+## 4. License
 
 The Typing Test - WPM Calculator project is released
 
