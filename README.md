@@ -10,9 +10,8 @@ This documentation provides instructions on how to set up and use the Typing Tes
 
 1. Installation
 2. Usage
-3. Customization
-4. Contributing
-5. License
+3. Contributing
+4. License
 
 ## 1. Installation
 
